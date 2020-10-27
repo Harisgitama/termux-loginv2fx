@@ -1,6 +1,8 @@
-Login-Termuxv2
+#Termuxv2-loginv2fx
+Best tool for termux available
+
 Mirip 98% linux
-Penginstallan:
+#Penginstallan:
 $git clone 
 https://github.com/Harisgitama/login-termuxv2fx.git
 $cd login-termuxv2fx
